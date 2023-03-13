@@ -15,7 +15,7 @@ function Feed() {
 function Contato() {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Entre em contato aqui!</Text>
+      <Text>Contato!</Text>
     </View>
   );
 }
@@ -23,7 +23,7 @@ function Contato() {
 function About() {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Um pouco sobre!</Text>
+      <Text>Sobre!</Text>
     </View>
   );
 }
